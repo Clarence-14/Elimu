@@ -1,0 +1,18 @@
+form{
+    background-color: slategrey;
+    padding: 50px;
+    width: 70%;
+    margin: auto;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-image: url("../assets/images/leaves.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+button{
+    margin-left: 850px;
+}

@@ -12,3 +12,12 @@ def information (request):
 
 def table (request):
    return render(request, 'table.html')
+
+def form (request):
+   return render(request, 'form.html')
+
+def login (request):
+   return render(request, 'login.html')
+
+def registration (request):
+   return render(request, 'registration.html')
